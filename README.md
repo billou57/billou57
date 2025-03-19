@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-<!--
-**billou57/billou57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <img src="https://img.shields.io/badge/-python-green" alt="python badge">
+    <img src="https://img.shields.io/badge/-perl-red" alt="go badge">
+    <img src="https://img.shields.io/badge/-php-blue" alt="php badge">
+    <img src="https://img.shields.io/badge/-bash-orange" alt="bash badge">
+    <img src="https://img.shields.io/badge/-html-purple" alt="html badge">
+    <img src="https://img.shields.io/badge/-mysql-pink" alt="css badge">
+    <img src="https://img.shields.io/badge/-elasticsearch-yellow" alt="elasticsearch badge">
+  
+</p>
